@@ -1,11 +1,13 @@
-<h1>Hi there 👋</h1> 
+<h3 align="center">Hi there, I'm Fatemeh 👋</h3> 
+
+### 🤝 Connect with me:
 <p>
    <a href="https://www.linkedin.com/in/fatemeh-mosaiyebzadeh-615baa84/" target="_blank">
   <img src="https://github.com/fatemehm/fatemehm/blob/main/images/linkedin.svg" width="60" height="60" />
 </p>
 <p> 
  <strong>
-  Professional skills
+  Professional skills:
   </strong>
 </p>
 
