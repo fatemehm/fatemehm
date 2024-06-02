@@ -10,9 +10,9 @@
   Professional skills:
   </strong>
 </p>
-
-
-
+<p>
+   <img src="https://github.com/fatemehm/fatemehm/blob/main/images/python-original.svg" alt="python" width="60" height="60" />
+</p>
 <!--
 **fatemehm/fatemehm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
