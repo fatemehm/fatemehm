@@ -3,7 +3,7 @@
 ### 🤝 Connect with me:
 <p>
    <a href="https://www.linkedin.com/in/fatemeh-mosaiyebzadeh-615baa84/" target="_blank">
-  <img src="https://github.com/fatemehm/fatemehm/blob/main/images/linkedin.svg" width="60" height="60" />
+  <img src="https://github.com/fatemehm/fatemehm/blob/main/images/linkedin.svg" width="40" height="40" />
 </p>
 <p> 
  <strong>
@@ -11,7 +11,7 @@
   </strong>
 </p>
 <p>
-   <img src="https://github.com/fatemehm/fatemehm/blob/main/images/python-original.svg" alt="python" width="60" height="60" />
+   <img src="https://github.com/fatemehm/fatemehm/blob/main/images/python-original.svg" alt="python" width="40" height="40" />
 </p>
 <!--
 **fatemehm/fatemehm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
