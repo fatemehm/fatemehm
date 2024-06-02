@@ -1,13 +1,6 @@
 ### Hi there 👋
 
-<p>
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
-  </a>
-</p>
+<a href=”https://www.linkedin.com/in/fatemeh-mosaiyebzadeh-615baa84/"><img align=”left” src=”https://github.com/fatemehm/fatemehm/blob/main/images/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
 
 <!--
 **fatemehm/fatemehm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
