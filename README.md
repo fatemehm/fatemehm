@@ -2,7 +2,7 @@
 
 ### 🤝 Connect with me:
 <p>
-   <a href="https://www.linkedin.com/in/fatemeh-mosaiyebzadeh-615baa84/" target="_blank">
+   <a href="www.linkedin.com/in/mahshid-zadeh" target="_blank">
   <img src="https://github.com/fatemehm/fatemehm/blob/main/images/linkedin.svg" width="40" height="40" />
 </p>
 <p> 
